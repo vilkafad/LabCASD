@@ -1,6 +1,0 @@
-C:\Users\danya\source\repos\WindowsFormsApp4\SortingLib\bin\Debug\SortingLib.dll
-C:\Users\danya\source\repos\WindowsFormsApp4\SortingLib\bin\Debug\SortingLib.pdb
-C:\Users\danya\source\repos\WindowsFormsApp4\SortingLib\obj\Debug\SortingLib.csproj.AssemblyReference.cache
-C:\Users\danya\source\repos\WindowsFormsApp4\SortingLib\obj\Debug\SortingLib.csproj.CoreCompileInputs.cache
-C:\Users\danya\source\repos\WindowsFormsApp4\SortingLib\obj\Debug\SortingLib.dll
-C:\Users\danya\source\repos\WindowsFormsApp4\SortingLib\obj\Debug\SortingLib.pdb
