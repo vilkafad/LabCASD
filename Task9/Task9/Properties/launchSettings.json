@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task9": {
+      "commandName": "Project",
+      "commandLineArgs": "5*(6+1)"
+    }
+  }
+}
