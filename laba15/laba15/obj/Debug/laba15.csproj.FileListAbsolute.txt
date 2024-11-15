@@ -1,0 +1,7 @@
+D:\proect\laba15\laba15\obj\Debug\laba15.csproj.AssemblyReference.cache
+D:\proect\laba15\laba15\obj\Debug\laba15.csproj.CoreCompileInputs.cache
+D:\proect\laba15\laba15\bin\Debug\laba15.exe.config
+D:\proect\laba15\laba15\bin\Debug\laba15.exe
+D:\proect\laba15\laba15\bin\Debug\laba15.pdb
+D:\proect\laba15\laba15\obj\Debug\laba15.exe
+D:\proect\laba15\laba15\obj\Debug\laba15.pdb
