@@ -1,0 +1,11 @@
+C:\Users\Anna\source\repos\laba18\laba18\bin\Debug\net8.0\laba18.deps.json
+C:\Users\Anna\source\repos\laba18\laba18\bin\Debug\net8.0\laba18.dll
+C:\Users\Anna\source\repos\laba18\laba18\bin\Debug\net8.0\laba18.pdb
+C:\Users\Anna\source\repos\laba18\laba18\obj\Debug\net8.0\laba18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\source\repos\laba18\laba18\obj\Debug\net8.0\laba18.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\laba18\laba18\obj\Debug\net8.0\laba18.AssemblyInfo.cs
+C:\Users\Anna\source\repos\laba18\laba18\obj\Debug\net8.0\laba18.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\laba18\laba18\obj\Debug\net8.0\laba18.dll
+C:\Users\Anna\source\repos\laba18\laba18\obj\Debug\net8.0\refint\laba18.dll
+C:\Users\Anna\source\repos\laba18\laba18\obj\Debug\net8.0\laba18.pdb
+C:\Users\Anna\source\repos\laba18\laba18\obj\Debug\net8.0\ref\laba18.dll
