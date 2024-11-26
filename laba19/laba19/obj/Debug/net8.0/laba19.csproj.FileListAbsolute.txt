@@ -1,0 +1,5 @@
+C:\Users\Anna\source\repos\laba19\laba19\obj\Debug\net8.0\laba19.csproj.AssemblyReference.cache
+C:\Users\Anna\source\repos\laba19\laba19\obj\Debug\net8.0\laba19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\source\repos\laba19\laba19\obj\Debug\net8.0\laba19.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\laba19\laba19\obj\Debug\net8.0\laba19.AssemblyInfo.cs
+C:\Users\Anna\source\repos\laba19\laba19\obj\Debug\net8.0\laba19.csproj.CoreCompileInputs.cache
