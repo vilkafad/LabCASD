@@ -1,0 +1,14 @@
+C:\Users\Anna\source\repos\laba21\laba21\bin\Debug\net8.0\laba21.exe
+C:\Users\Anna\source\repos\laba21\laba21\bin\Debug\net8.0\laba21.deps.json
+C:\Users\Anna\source\repos\laba21\laba21\bin\Debug\net8.0\laba21.runtimeconfig.json
+C:\Users\Anna\source\repos\laba21\laba21\bin\Debug\net8.0\laba21.dll
+C:\Users\Anna\source\repos\laba21\laba21\bin\Debug\net8.0\laba21.pdb
+C:\Users\Anna\source\repos\laba21\laba21\obj\Debug\net8.0\laba21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\source\repos\laba21\laba21\obj\Debug\net8.0\laba21.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\laba21\laba21\obj\Debug\net8.0\laba21.AssemblyInfo.cs
+C:\Users\Anna\source\repos\laba21\laba21\obj\Debug\net8.0\laba21.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\laba21\laba21\obj\Debug\net8.0\laba21.dll
+C:\Users\Anna\source\repos\laba21\laba21\obj\Debug\net8.0\refint\laba21.dll
+C:\Users\Anna\source\repos\laba21\laba21\obj\Debug\net8.0\laba21.pdb
+C:\Users\Anna\source\repos\laba21\laba21\obj\Debug\net8.0\laba21.genruntimeconfig.cache
+C:\Users\Anna\source\repos\laba21\laba21\obj\Debug\net8.0\ref\laba21.dll
