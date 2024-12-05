@@ -1,0 +1,11 @@
+C:\Users\Anna\source\repos\laba23\laba23\obj\Debug\net8.0\laba23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\source\repos\laba23\laba23\obj\Debug\net8.0\laba23.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\laba23\laba23\obj\Debug\net8.0\laba23.AssemblyInfo.cs
+C:\Users\Anna\source\repos\laba23\laba23\obj\Debug\net8.0\laba23.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\laba23\laba23\bin\Debug\net8.0\laba23.deps.json
+C:\Users\Anna\source\repos\laba23\laba23\bin\Debug\net8.0\laba23.dll
+C:\Users\Anna\source\repos\laba23\laba23\bin\Debug\net8.0\laba23.pdb
+C:\Users\Anna\source\repos\laba23\laba23\obj\Debug\net8.0\laba23.dll
+C:\Users\Anna\source\repos\laba23\laba23\obj\Debug\net8.0\refint\laba23.dll
+C:\Users\Anna\source\repos\laba23\laba23\obj\Debug\net8.0\laba23.pdb
+C:\Users\Anna\source\repos\laba23\laba23\obj\Debug\net8.0\ref\laba23.dll
