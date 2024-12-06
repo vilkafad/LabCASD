@@ -1,0 +1,1 @@
+int x = 12; int x = 13; double zar = 1.00; float k = 2.25; string p = 13;

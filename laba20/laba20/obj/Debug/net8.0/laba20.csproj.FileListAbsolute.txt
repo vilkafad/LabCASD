@@ -1,0 +1,28 @@
+C:\Users\hjwwjh\source\repos\laba20\laba20\bin\Debug\net8.0\laba20.exe
+C:\Users\hjwwjh\source\repos\laba20\laba20\bin\Debug\net8.0\laba20.deps.json
+C:\Users\hjwwjh\source\repos\laba20\laba20\bin\Debug\net8.0\laba20.runtimeconfig.json
+C:\Users\hjwwjh\source\repos\laba20\laba20\bin\Debug\net8.0\laba20.dll
+C:\Users\hjwwjh\source\repos\laba20\laba20\bin\Debug\net8.0\laba20.pdb
+C:\Users\hjwwjh\source\repos\laba20\laba20\obj\Debug\net8.0\laba20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hjwwjh\source\repos\laba20\laba20\obj\Debug\net8.0\laba20.AssemblyInfoInputs.cache
+C:\Users\hjwwjh\source\repos\laba20\laba20\obj\Debug\net8.0\laba20.AssemblyInfo.cs
+C:\Users\hjwwjh\source\repos\laba20\laba20\obj\Debug\net8.0\laba20.csproj.CoreCompileInputs.cache
+C:\Users\hjwwjh\source\repos\laba20\laba20\obj\Debug\net8.0\laba20.dll
+C:\Users\hjwwjh\source\repos\laba20\laba20\obj\Debug\net8.0\refint\laba20.dll
+C:\Users\hjwwjh\source\repos\laba20\laba20\obj\Debug\net8.0\laba20.pdb
+C:\Users\hjwwjh\source\repos\laba20\laba20\obj\Debug\net8.0\laba20.genruntimeconfig.cache
+C:\Users\hjwwjh\source\repos\laba20\laba20\obj\Debug\net8.0\ref\laba20.dll
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\bin\Debug\net8.0\laba20.exe
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\bin\Debug\net8.0\laba20.deps.json
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\bin\Debug\net8.0\laba20.runtimeconfig.json
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\bin\Debug\net8.0\laba20.dll
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\bin\Debug\net8.0\laba20.pdb
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\obj\Debug\net8.0\laba20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\obj\Debug\net8.0\laba20.AssemblyInfoInputs.cache
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\obj\Debug\net8.0\laba20.AssemblyInfo.cs
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\obj\Debug\net8.0\laba20.csproj.CoreCompileInputs.cache
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\obj\Debug\net8.0\laba20.dll
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\obj\Debug\net8.0\refint\laba20.dll
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\obj\Debug\net8.0\laba20.pdb
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\obj\Debug\net8.0\laba20.genruntimeconfig.cache
+C:\Users\Anna\OneDrive\Рабочий стол\laba20\laba20\obj\Debug\net8.0\ref\laba20.dll
