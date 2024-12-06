@@ -1,9 +1,5 @@
 ﻿using System.Text.RegularExpressions;
 using Task18;
-
-
-//public class HTML
-//{
     static void Main(string[] args)
     {
         MyHashMap<string, int> teg = new MyHashMap<string, int>();
@@ -30,5 +26,3 @@ using Task18;
         foreach (var pair in pairs)
             Console.WriteLine($"Ключ: {pair.Key}, Значение: {pair.Value}");
     }
-//}
-
